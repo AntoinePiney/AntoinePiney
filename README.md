@@ -1,19 +1,28 @@
 # Antoine Piney
-**Directeur Artistique & Développeur Créatif · Paris**
+**Art Director & Creative Developer · Paris**
 
-Je travaille à l'intersection du design et du code —
-interfaces interactives, expériences WebGL, design systems.
-Actuellement en train de construire **FleetWork**, une plateforme
-d'assistants IA pensée pour les non-techniciens.
+I work at the intersection of design and code,
+interactive interfaces, WebGL experiences, design systems.
+Currently building **FleetWork**, an AI assistant platform
+designed for non-technical users.
 
 ### Stack
-`Next.js` `Three.js` `GSAP` `TypeScript` `Webflow`
-`WordPress / ACF` `Supabase` `Figma`
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
 
-### En ce moment
-- 🚢 **FleetWork** — SaaS IA pour entrepreneurs & PME
-- 🎨 Expériences WebGL & shaders
-- ⚙️ Architectures headless CMS
+**CMS & Backend**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
+
+### Currently
+- 🚢 **FleetWork** — AI SaaS for entrepreneurs & SMBs
+- 🎨 WebGL & shader experiences
+- ⚙️ Headless CMS architectures
 
 ---
 
