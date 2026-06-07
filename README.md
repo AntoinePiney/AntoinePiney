@@ -1,10 +1,20 @@
-👋 Hi, I’m @AntoinePiney
-- 👀 I’m interested in digital design, 3D modeling, and web development.
-- 🌱 I’m currently learning advanced React techniques and exploring 3D rendering with Blender.
-- 💞️ I’m looking to collaborate on innovative web design projects and anything related to creative digital experiences.
-- 📫 How to reach me: You can send me an email at antoine.piney@gmail.com.
+# Antoine Piney
+**Directeur Artistique & Développeur Créatif · Paris**
 
-<!---
-AntoinePiney/AntoinePiney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je travaille à l'intersection du design et du code —
+interfaces interactives, expériences WebGL, design systems.
+Actuellement en train de construire **FleetWork**, une plateforme
+d'assistants IA pensée pour les non-techniciens.
+
+### Stack
+`Next.js` `Three.js` `GSAP` `TypeScript` `Webflow`
+`WordPress / ACF` `Supabase` `Figma`
+
+### En ce moment
+- 🚢 **FleetWork** — SaaS IA pour entrepreneurs & PME
+- 🎨 Expériences WebGL & shaders
+- ⚙️ Architectures headless CMS
+
+---
+
+[antoinepiney.fr](https://antoinepiney.fr) · [LinkedIn](https://linkedin.com/in/antoinepiney) · antoine.piney@gmail.com
